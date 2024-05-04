@@ -1,6 +1,11 @@
 <p align="center"> 
 Hack the Hackathon Code of Conduct
 </p>
+
+<p align="center">
+  <img src="hth_icon.png" />
+</p>
+
 Hack the Hackathon is a welcome and open space for hackathon organizers, researchers, and people looking to join the community. Hack the Hackathon promotes a policy of respect and understanding. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at Hack the Hackathon, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a participant, volunteer, organizer, or other related position at an event makes you uncomfortable, please report it using the procedures included in this document.
 Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, veteran status. Additional cases of harassment include but not limited to sharing sexual images, deliberate intimidation, stalking, following, brigading, doxxing, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
 Participants asked to stop any harassing behavior are expected to comply immediately.
